@@ -1,0 +1,13 @@
+{
+  "name": "form",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/google-apps-script": "^1.0.97"
+  },
+  "peerDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
